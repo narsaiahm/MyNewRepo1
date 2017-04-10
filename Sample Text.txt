@@ -1,0 +1,19 @@
+This is an important section to absorb, because if you understand what Git is and the fundamentals of how it works, 
+
+then using Git effectively will probably be much easier for you. 
+
+As you learn Git, try to clear your mind of the things you may know about other VCSs, 
+
+such as Subversion and Perforce; doing so will help you avoid subtle confusion when using the tool. 
+
+
+Git stores and thinks about information much differently than these other systems, even though the user interface is fairly similar, and understanding those differences will help prevent you from becoming confused while using it.
+Snapshots, Not Differences
+
+The major difference between Git and any other VCS (Subversion and friends included) is the way Git thinks about its data. 
+Conceptually, most other systems store information as a list of file-based changes. 
+
+
+These systems (CVS, Subversion, Perforce, Bazaar, and so on) think of the information they keep as a set of 
+
+files and the changes made to each file over time.
