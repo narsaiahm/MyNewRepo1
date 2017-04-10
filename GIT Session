@@ -4,7 +4,7 @@ Most operations in Git only need local files and resources to operate – genera
 
 Because you have the entire history of the project right there on your local disk, most operations seem almost instantaneous.
 
-For example, to browse the history of the project, 
+For example, to browse the history of the project, added Text
 
 Git doesn’t need to go out to the server to get the history and display it for you – it simply reads it directly from your local database.
 
